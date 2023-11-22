@@ -1,0 +1,15 @@
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\bin\Debug\net8.0\Parprogrammering1.exe
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\bin\Debug\net8.0\Parprogrammering1.deps.json
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\bin\Debug\net8.0\Parprogrammering1.runtimeconfig.json
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\bin\Debug\net8.0\Parprogrammering1.dll
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\bin\Debug\net8.0\Parprogrammering1.pdb
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\obj\Debug\net8.0\Parprogrammering1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\obj\Debug\net8.0\Parprogrammering1.AssemblyInfoInputs.cache
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\obj\Debug\net8.0\Parprogrammering1.AssemblyInfo.cs
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\obj\Debug\net8.0\Parprogrammering1.csproj.CoreCompileInputs.cache
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\obj\Debug\net8.0\Parprogrammering1.sourcelink.json
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\obj\Debug\net8.0\Parprogrammering1.dll
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\obj\Debug\net8.0\refint\Parprogrammering1.dll
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\obj\Debug\net8.0\Parprogrammering1.pdb
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\obj\Debug\net8.0\Parprogrammering1.genruntimeconfig.cache
+C:\Users\aadne\OneDrive\Skrivebord\Ny mappe\Parprogrammering1\obj\Debug\net8.0\ref\Parprogrammering1.dll
